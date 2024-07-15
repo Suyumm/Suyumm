@@ -15,3 +15,9 @@ Skills:  REACT / JS / HTML / CSS / C# / SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Suyumm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/su-fiydan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/25453001/su-fiydan)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyumm)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyumm&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Suyumm)  
+
