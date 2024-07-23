@@ -10,7 +10,7 @@ My journey continues. Like a sponge, I absorb knowledge by taking various softwa
 Here I am, fueled by passion and determination, striving to master the art of coding with elegance and purpose.
 
 Skills: REACT / JS / HTML / CSS / C# / SQL
-🌱 Şu anda React öğreniyorum 
+🌱 I am currently learning React.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='Github' height='40'>](https://github.com/Suyumm)
@@ -18,7 +18,8 @@ Skills: REACT / JS / HTML / CSS / C# / SQL
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stack Overflow' height='40'>](https://stackoverflow.com/users/25453001/su-fiydan)
 
 
-[![En İyi Langlar](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyumm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyumm)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub çizgi istatistikleri](https://streak-stats.demolab.com/?user=Suyumm)  
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Suyumm)
+
 
