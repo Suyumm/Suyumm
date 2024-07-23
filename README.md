@@ -1,13 +1,7 @@
 
 ### Hello 👋, my name is Su
 #### Full Stack Developer
-Since middle school, I have been captivated by the world of programming. During high school, I immersed myself in the fundamental tools of a full-stack developer, such as ASP.NET, React, C#, HTML, CSS, JavaScript, Bootstrap, and Reactstrap. But my curiosity didn't stop there.
 
-Artificial Intelligence intrigued me with its ability to mimic human learning and decision-making. I delved into the intricacies of AI by exploring Neural Networks, Natural Language Processing, and Machine Learning. For more information, click here. I find solace in the logic and creativity that software engineering offers.
-
-My journey continues. Like a sponge, I absorb knowledge by taking various software engineering courses. Lines of code and algorithms propel me forward. As I hone my skills, I strive to create solutions that resonate with users, inspire innovation, and push the boundaries of technology.
-
-Here I am, fueled by passion and determination, striving to master the art of coding with elegance and purpose.
 
 Skills: REACT / JS / HTML / CSS / C# / SQL
 
