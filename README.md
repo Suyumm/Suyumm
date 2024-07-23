@@ -10,6 +10,7 @@ My journey continues. Like a sponge, I absorb knowledge by taking various softwa
 Here I am, fueled by passion and determination, striving to master the art of coding with elegance and purpose.
 
 Skills: REACT / JS / HTML / CSS / C# / SQL
+
 🌱 I am currently learning React.
 
 
