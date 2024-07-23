@@ -13,7 +13,10 @@ Beceriler: REACT / JS / HTML / CSS / C # / SQL
 - 🌱 Şu anda React öğreniyorum 
 
 
-[<img src = 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt =' Github 'yükseklik = '40' >]<img src = 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt =' Github 'yükseklik = '40' >] (https://github.com/Suyumm) [<img src = 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt =' bağlama 'yükseklik = '40' >](https://www.linkedin.com/in/www.linkedin.com/in/su-fiydan/)  [<img src = 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt =' Patlama akıcı 'yükseklik =' 40 '>](https://stackoverflow.com/users/https://stackoverflow.com/users/25453001/su-fiydan)  
+[<img src = 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt =' Github 'yükseklik = '40' >](https://github.com/Suyumm)
+[<img src = 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt =' LinkedIn 'yükseklik = '40' >](https://www.linkedin.com/in/su-fiydan/)
+[<img src = 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt =' Yıldız Taşması 'yükseklik = '40' >](https://stackoverflow.com/users/25453001/su-fiydan)
+
 
 [![En İyi Langlar](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyumm)](https://github.com/anuraghazra/github-readme-stats)
 
