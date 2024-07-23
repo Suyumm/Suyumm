@@ -1,22 +1,21 @@
-### Merhaba 👋, ben adım Su
-#### Tam Yıl Geliştirici
-Ortaokuldan beri, yaz dünyası tarafından büyük. Lisede, kendimi ASP.NET, React, C #, HTML, CSS, JavaScript, Bootstrap ve Reactstrap'a tam sarıkın geliştiricinin temel araçlarıı daldırarak bir bilgisayar bilimi parçası izledim. Ama merakım burada bitmedi.
 
-Yapay zeka, algoritmalarda besişini taklit ettiyği esrarengiz bir alayı çağıdırdı. Sinir Üzümü, Doğranımı ve Makine Kökrenimini Keşfederek Yapay Zekanlın Karışıklıkları Araştürüm. Daha fazla bilgi Daha fazla bilgi iç tiklayınz. Yazım mühendislikinin sunduğu mantık ve yaratıkta teselli buluyorum.
+### Hello 👋, my name is Su
+#### Full Stack Developer
+Since middle school, I have been captivated by the world of programming. During high school, I immersed myself in the fundamental tools of a full-stack developer, such as ASP.NET, React, C#, HTML, CSS, JavaScript, Bootstrap, and Reactstrap. But my curiosity didn't stop there.
 
-Yolculuğum devam ediyor. Dünger gibi bilgiyi emerek yaz mühendiski kurslarınna katışyorum. Kod satır, algoritma beni ileriye iter. Becerilerimi geliştirken, yalnızca kullancılarla rezonansa giren, oyukim ilham veren ve hatta belki de inovasyonun kenarlarına dokunan ihlevsellik açözümleri.
+Artificial Intelligence intrigued me with its ability to mimic human learning and decision-making. I delved into the intricacies of AI by exploring Neural Networks, Natural Language Processing, and Machine Learning. For more information, click here. I find solace in the logic and creativity that software engineering offers.
 
-İşte buradayim, tutku ve kararlıkla körüklendim, kod sanatına onun seferinde zarif bir aşlevde hakim olmaya çalıktır.
+My journey continues. Like a sponge, I absorb knowledge by taking various software engineering courses. Lines of code and algorithms propel me forward. As I hone my skills, I strive to create solutions that resonate with users, inspire innovation, and push the boundaries of technology.
 
-Beceriler: REACT / JS / HTML / CSS / C # / SQL
+Here I am, fueled by passion and determination, striving to master the art of coding with elegance and purpose.
 
-- 🌱 Şu anda React öğreniyorum 
+Skills: REACT / JS / HTML / CSS / C# / SQL
+🌱 Şu anda React öğreniyorum 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='Github' height='40'>](https://github.com/Suyumm)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/su-fiydan/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stack Overflow' height='40'>](https://stackoverflow.com/users/25453001/su-fiydan)
-
 
 
 [![En İyi Langlar](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyumm)](https://github.com/anuraghazra/github-readme-stats)
