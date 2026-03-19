@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40" />
 </p>
-<i>*Microsoft SQL Server ve genel SQL için ek araç logoları da eklenebilir.</i>
+
 
 ---
 
@@ -27,13 +27,13 @@
   <a href="https://www.linkedin.com/in/su-fiydan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  <a href="mailto:your.su.fiydan@gma,l.com">
+  <a href="mailto:your.su.fiydan@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
   </a>
 </p>
 
 ### Most Used Languages
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=suyumm&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Stats
-[![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=suyumm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
