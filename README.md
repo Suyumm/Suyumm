@@ -2,7 +2,7 @@
 
 ### Hello 👋, I'm Su
 
-<samp>Full Stack Developer | Game Dev Enthusiast</samp>
+<samp>Full Stack Developer | 
 
 ---
 
