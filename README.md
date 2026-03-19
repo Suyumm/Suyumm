@@ -32,13 +32,12 @@
 
 ### 📊 My Contribution Activity
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/suyumm/suyumm/output/github-contribution-grid-snake.svg)
+![Su's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=suyumm&theme=github-dark&hide_border=true)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suyumm&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyumm&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
-
 ---
 
 <p align="center">
