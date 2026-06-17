@@ -52,6 +52,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyumm&layout=compact&theme=dark&hide_border=true&count_private=true" width="48%" />
 </p>
 
+
+### 📊 GitHub Stats & Languages
+
+<p align="center">
+  <!-- Toplam commit ve istatistikler -->
+  <img src="https://github-readme-stats.vercel.app/api?username=suyumm&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <!-- Diller -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyumm&layout=compact&theme=dark&hide_border=true&count_private=true" width="48%" />
+</p>
+
+<!-- Toplam Repo Sayısı İçin Rozet -->
+<p align="center">
+  <img src="https://img.shields.io/github/repos/suyumm?style=for-the-badge&label=Total%20Repositories&color=0077B5" alt="Total Repos" />
+</p>
 ---
 
 <p align="center">Always building, always learning!</p>
