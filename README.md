@@ -1,5 +1,3 @@
-
-
 ### Hello 👋, I'm Su
 
 <samp>Full Stack Developer | 
@@ -41,8 +39,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyumm&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyumm&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <!-- Özel repoları ve tüm commitleri dahil eden güncellenmiş istatistik kartı -->
+  <img src="https://github-readme-stats.vercel.app/api?username=suyumm&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyumm&layout=compact&theme=dark&hide_border=true&count_private=true" width="48%" />
 </p>
 
 <p align="center">
