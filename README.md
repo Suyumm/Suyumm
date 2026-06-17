@@ -1,11 +1,12 @@
 ### Hello 👋, I'm Su
 
-<samp>Full Stack Developer |
+<samp>Full Stack Developer |</samp>
+
 ---
 
 #### 💻 About Me
-*   🔭 Currently working on mobile game and app development using **Flutter**.
-*   🎮 Recently published my game **[Criptodle]([https://play.google.com/store/apps/details?id=YOUR_APP_ID](https://play.google.com/store/apps/details?id=com.disciplinestudio.criptodle&pli=1))** on the Google Play Store.
+*   🔭 Currently working on mobile game development using **Flutter**.
+*   🎮 Recently published my game [Criptodle](https://play.google.com/store/apps/details?id=com.disciplinestudio.criptodle&pli=1) on the Google Play Store.
 *   ⚡ Always building, always learning!
 
 ---
@@ -21,10 +22,19 @@
 
 ---
 
-### 📊 GitHub Stats & Languages
+### 📊 My Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suyumm/suyumm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suyumm/suyumm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suyumm/suyumm/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 📈 GitHub Stats & Languages
 
 <p align="center">
-  <!-- Özel repoları ve tüm commitleri dahil eden istatistik kartı -->
   <img src="https://github-readme-stats.vercel.app/api?username=suyumm&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyumm&layout=compact&theme=dark&hide_border=true&count_private=true" width="48%" />
 </p>
@@ -37,6 +47,4 @@
 *   **LinkedIn**: [su-fiydan](https://www.linkedin.com/in/su-fiydan)
 
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suyumm&theme=dark" width="100%" />
-</p>
+<p align="center">Always building, always learning!</p>
