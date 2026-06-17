@@ -1,10 +1,16 @@
 ### Hello 👋, I'm Su
 
-<samp>Full Stack Developer | 
+<samp>Full Stack Developer |
+---
+
+#### 💻 About Me
+*   🔭 Currently working on mobile game and app development using **Flutter**.
+*   🎮 Recently published my game **[Criptodle]([https://play.google.com/store/apps/details?id=YOUR_APP_ID](https://play.google.com/store/apps/details?id=com.disciplinestudio.criptodle&pli=1))** on the Google Play Store.
+*   ⚡ Always building, always learning!
 
 ---
 
-#### Languages and Tools:
+#### 🛠 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css" alt="Mobile & Frontend" />
@@ -15,35 +21,22 @@
 
 ---
 
-#### Contact:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/su-fiydan" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:sufiydan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p>
-
----
-
-### 📊 My Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suyumm/suyumm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suyumm/suyumm/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suyumm/suyumm/output/github-contribution-grid-snake.svg">
-</picture>
-
----
+### 📊 GitHub Stats & Languages
 
 <p align="center">
-  <!-- Özel repoları ve tüm commitleri dahil eden güncellenmiş istatistik kartı -->
+  <!-- Özel repoları ve tüm commitleri dahil eden istatistik kartı -->
   <img src="https://github-readme-stats.vercel.app/api?username=suyumm&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyumm&layout=compact&theme=dark&hide_border=true&count_private=true" width="48%" />
 </p>
 
+---
+
+#### 📫 Let's Connect
+
+*   **Email**: sufiydan@gmail.com
+*   **LinkedIn**: [su-fiydan](https://www.linkedin.com/in/su-fiydan)
+
+---
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suyumm&theme=dark" width="100%" />
 </p>
