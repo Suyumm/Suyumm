@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/suyumm?style=for-the-badge&label=Total%20Repositories&color=0077B5" alt="Total Repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suyumm&theme=dark" width="100%" />
 </p>
 ---
 
